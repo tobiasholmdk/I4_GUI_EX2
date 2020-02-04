@@ -1,0 +1,14 @@
+C:\Users\Tobias\source\repos\UNI\I4GUI\Exercises\Exercise_2\Hull_speed\Hull_speed\bin\Debug\Hull_speed.exe.config
+C:\Users\Tobias\source\repos\UNI\I4GUI\Exercises\Exercise_2\Hull_speed\Hull_speed\bin\Debug\Hull_speed.exe
+C:\Users\Tobias\source\repos\UNI\I4GUI\Exercises\Exercise_2\Hull_speed\Hull_speed\bin\Debug\Hull_speed.pdb
+C:\Users\Tobias\source\repos\UNI\I4GUI\Exercises\Exercise_2\Hull_speed\Hull_speed\obj\Debug\Hull_speed.csprojAssemblyReference.cache
+C:\Users\Tobias\source\repos\UNI\I4GUI\Exercises\Exercise_2\Hull_speed\Hull_speed\obj\Debug\MainWindow.g.cs
+C:\Users\Tobias\source\repos\UNI\I4GUI\Exercises\Exercise_2\Hull_speed\Hull_speed\obj\Debug\App.g.cs
+C:\Users\Tobias\source\repos\UNI\I4GUI\Exercises\Exercise_2\Hull_speed\Hull_speed\obj\Debug\Hull_speed_MarkupCompile.cache
+C:\Users\Tobias\source\repos\UNI\I4GUI\Exercises\Exercise_2\Hull_speed\Hull_speed\obj\Debug\Hull_speed_MarkupCompile.lref
+C:\Users\Tobias\source\repos\UNI\I4GUI\Exercises\Exercise_2\Hull_speed\Hull_speed\obj\Debug\MainWindow.baml
+C:\Users\Tobias\source\repos\UNI\I4GUI\Exercises\Exercise_2\Hull_speed\Hull_speed\obj\Debug\Hull_speed.g.resources
+C:\Users\Tobias\source\repos\UNI\I4GUI\Exercises\Exercise_2\Hull_speed\Hull_speed\obj\Debug\Hull_speed.Properties.Resources.resources
+C:\Users\Tobias\source\repos\UNI\I4GUI\Exercises\Exercise_2\Hull_speed\Hull_speed\obj\Debug\Hull_speed.csproj.GenerateResource.cache
+C:\Users\Tobias\source\repos\UNI\I4GUI\Exercises\Exercise_2\Hull_speed\Hull_speed\obj\Debug\Hull_speed.exe
+C:\Users\Tobias\source\repos\UNI\I4GUI\Exercises\Exercise_2\Hull_speed\Hull_speed\obj\Debug\Hull_speed.pdb

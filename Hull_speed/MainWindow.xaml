@@ -1,0 +1,22 @@
+﻿<Window x:Class="Hull_speed.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hull_speed"
+        mc:Ignorable="d"
+        Title="Hull Speed Calculator" Height="320" Width="472">
+    <Grid Margin="0,0,12,-1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Left" Margin="21,28,0,0" TextWrapping="Wrap" Text="Name:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="21,102,0,0" TextWrapping="Wrap" Text="Length" VerticalAlignment="Top" />
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="111,28,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Name="Name" />
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="111,102,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Name="Length"/>
+        <Button Content="Calculate Hull Speed" HorizontalAlignment="Left" Margin="60,149,0,0" VerticalAlignment="Top" Width="142" Click="Button_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="21,195,0,0" TextWrapping="Wrap" Text="Hull Speed " VerticalAlignment="Top" Width="247" Name="Calc"/>
+        <Image Source="Sailboat.jpg" HorizontalAlignment="Left" Height="276" Margin="268,10,0,0" VerticalAlignment="Top" Width="170"/>
+
+    </Grid>
+</Window>
